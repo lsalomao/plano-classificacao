@@ -1,7 +1,6 @@
 # Sistema Classificação Planejada
 
 ## O que é o Sistema
-
 O **Sistema Classificação Planejada** é uma ferramenta de planejamento estratégico para clubes de futebol baseada no conceito utilizado pelos próprios treinadores: buscar aproximadamente **72 pontos** para brigar pelo título do campeonato.
 
 A ideia é simples: cada clube planeja onde pode ou não perder pontos, estabelecendo metas de pontuação por rodada considerando a dificuldade dos adversários que enfrentará.
